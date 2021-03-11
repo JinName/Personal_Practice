@@ -139,10 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="complete_search_1.cpp" />
     <ClCompile Include="hash_1.cpp" />
     <ClCompile Include="hash_2.cpp" />
     <ClCompile Include="hash_3.cpp" />
     <ClCompile Include="hash_4.cpp" />
+    <ClCompile Include="heap_1.cpp" />
+    <ClCompile Include="heap_2.cpp" />
+    <ClCompile Include="heap_3.cpp" />
+    <ClCompile Include="sort_1.cpp" />
+    <ClCompile Include="sort_2.cpp" />
+    <ClCompile Include="sort_3.cpp" />
     <ClCompile Include="stack_queue_1.cpp" />
     <ClCompile Include="stack_queue_2.cpp" />
     <ClCompile Include="stack_queue_3.cpp" />

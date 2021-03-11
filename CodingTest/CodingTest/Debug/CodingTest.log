@@ -1,6 +1,4 @@
-﻿  stack_queue_4.cpp
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\stack_queue_4.cpp(17,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\stack_queue_4.cpp(28,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\stack_queue_4.cpp(61,18): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\stack_queue_4.cpp(69,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  sort_2.cpp
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\sort_2.cpp(31,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\sort_2.cpp(64,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   CodingTest.vcxproj -> D:\Code Workspace\CodingTest\CodingTest\Debug\CodingTest.exe

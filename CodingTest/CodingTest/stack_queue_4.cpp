@@ -73,7 +73,7 @@ int solution(vector<int> priorities, int location) {
     return answer;
 }
 
-void main()
-{
-    cout << solution({ 1, 1, 9, 1, 1, 1 }, 0) << endl;
-}
+//void main()
+//{
+//    cout << solution({ 1, 1, 9, 1, 1, 1 }, 0) << endl;
+//}

@@ -13,37 +13,67 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\hash">
+    <Filter Include="리소스 파일\2. stack_queue">
+      <UniqueIdentifier>{9e41738a-c142-407e-93aa-6c62f57e8fcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\1. hash">
       <UniqueIdentifier>{f887ca5b-2e33-41c6-a7c1-96f04be34a66}</UniqueIdentifier>
     </Filter>
-    <Filter Include="리소스 파일\stack_queue">
-      <UniqueIdentifier>{9e41738a-c142-407e-93aa-6c62f57e8fcc}</UniqueIdentifier>
+    <Filter Include="리소스 파일\3. heap">
+      <UniqueIdentifier>{f99b1c8c-b3e9-48d3-90b6-94c96ff19e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4. sort">
+      <UniqueIdentifier>{d3cc2f64-976f-484b-be98-d4963554df25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\5. complete_search">
+      <UniqueIdentifier>{21b326a2-b5d8-444a-850b-a0e7e43b1663}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hash_1.cpp">
-      <Filter>리소스 파일\hash</Filter>
+      <Filter>리소스 파일\1. hash</Filter>
     </ClCompile>
     <ClCompile Include="hash_2.cpp">
-      <Filter>리소스 파일\hash</Filter>
+      <Filter>리소스 파일\1. hash</Filter>
     </ClCompile>
     <ClCompile Include="hash_3.cpp">
-      <Filter>리소스 파일\hash</Filter>
+      <Filter>리소스 파일\1. hash</Filter>
     </ClCompile>
     <ClCompile Include="hash_4.cpp">
-      <Filter>리소스 파일\hash</Filter>
+      <Filter>리소스 파일\1. hash</Filter>
     </ClCompile>
     <ClCompile Include="stack_queue_1.cpp">
-      <Filter>리소스 파일\stack_queue</Filter>
+      <Filter>리소스 파일\2. stack_queue</Filter>
     </ClCompile>
     <ClCompile Include="stack_queue_2.cpp">
-      <Filter>리소스 파일\stack_queue</Filter>
+      <Filter>리소스 파일\2. stack_queue</Filter>
     </ClCompile>
     <ClCompile Include="stack_queue_3.cpp">
-      <Filter>리소스 파일\stack_queue</Filter>
+      <Filter>리소스 파일\2. stack_queue</Filter>
     </ClCompile>
     <ClCompile Include="stack_queue_4.cpp">
-      <Filter>리소스 파일\stack_queue</Filter>
+      <Filter>리소스 파일\2. stack_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_1.cpp">
+      <Filter>리소스 파일\3. heap</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_2.cpp">
+      <Filter>리소스 파일\3. heap</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_3.cpp">
+      <Filter>리소스 파일\3. heap</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_1.cpp">
+      <Filter>리소스 파일\4. sort</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_2.cpp">
+      <Filter>리소스 파일\4. sort</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_3.cpp">
+      <Filter>리소스 파일\4. sort</Filter>
+    </ClCompile>
+    <ClCompile Include="complete_search_1.cpp">
+      <Filter>리소스 파일\5. complete_search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

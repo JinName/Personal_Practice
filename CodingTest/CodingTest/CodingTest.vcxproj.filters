@@ -28,6 +28,12 @@
     <Filter Include="리소스 파일\5. complete_search">
       <UniqueIdentifier>{21b326a2-b5d8-444a-850b-a0e7e43b1663}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\6. greedy">
+      <UniqueIdentifier>{eb9c9037-1af4-4a96-b6f0-335ad8541137}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\8. dfs / bfs">
+      <UniqueIdentifier>{14432ffa-6df7-4048-9f7e-6f234b017be8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hash_1.cpp">
@@ -74,6 +80,36 @@
     </ClCompile>
     <ClCompile Include="complete_search_1.cpp">
       <Filter>리소스 파일\5. complete_search</Filter>
+    </ClCompile>
+    <ClCompile Include="complete_search_2.cpp">
+      <Filter>리소스 파일\5. complete_search</Filter>
+    </ClCompile>
+    <ClCompile Include="complete_search_3.cpp">
+      <Filter>리소스 파일\5. complete_search</Filter>
+    </ClCompile>
+    <ClCompile Include="greedy_1.cpp">
+      <Filter>리소스 파일\6. greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="greedy_2.cpp">
+      <Filter>리소스 파일\6. greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="greedy_3.cpp">
+      <Filter>리소스 파일\6. greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="greedy_4.cpp">
+      <Filter>리소스 파일\6. greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_bfs_1.cpp">
+      <Filter>리소스 파일\8. dfs / bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_bfs_2.cpp">
+      <Filter>리소스 파일\8. dfs / bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_bfs_3.cpp">
+      <Filter>리소스 파일\8. dfs / bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_bfs_4.cpp">
+      <Filter>리소스 파일\8. dfs / bfs</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

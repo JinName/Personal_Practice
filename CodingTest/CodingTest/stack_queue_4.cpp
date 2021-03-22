@@ -31,47 +31,47 @@ priorities	location	return
 6개의 문서(A, B, C, D, E, F)가 인쇄 대기목록에 있고 중요도가 1 1 9 1 1 1 이므로 C D E F A B 순으로 인쇄합니다.
 */
 
-#include <vector>
-#include <queue>
-#include <iostream>
-
-using namespace std;
-
-int solution(vector<int> priorities, int location) {
-    int answer = 0;
-
-    priority_queue<int> pq;
-    queue<pair<int, int>> print_que;
-
-    // 우선순위 큐, 출력 큐에 삽입
-    for (int i = 0; i < priorities.size(); ++i)
-    {
-        pq.push(priorities[i]);
-        print_que.push(pair<int, int>(i, priorities[i]));
-    }
-
-    while (!print_que.empty())
-    {
-        pair<int, int> temp_pair = print_que.front();
-        print_que.pop();
-
-        // 우선순위 확인
-        if (temp_pair.second == pq.top())
-        {
-            ++answer;
-            pq.pop();
-
-            if (temp_pair.first == location)
-                break;
-        }
-        else
-        {
-            print_que.push(temp_pair);
-        }
-    }
-
-    return answer;
-}
+//#include <vector>
+//#include <queue>
+//#include <iostream>
+//
+//using namespace std;
+//
+//int solution(vector<int> priorities, int location) {
+//    int answer = 0;
+//
+//    priority_queue<int> pq;
+//    queue<pair<int, int>> print_que;
+//
+//    // 우선순위 큐, 출력 큐에 삽입
+//    for (int i = 0; i < priorities.size(); ++i)
+//    {
+//        pq.push(priorities[i]);
+//        print_que.push(pair<int, int>(i, priorities[i]));
+//    }
+//
+//    while (!print_que.empty())
+//    {
+//        pair<int, int> temp_pair = print_que.front();
+//        print_que.pop();
+//
+//        // 우선순위 확인
+//        if (temp_pair.second == pq.top())
+//        {
+//            ++answer;
+//            pq.pop();
+//
+//            if (temp_pair.first == location)
+//                break;
+//        }
+//        else
+//        {
+//            print_que.push(temp_pair);
+//        }
+//    }
+//
+//    return answer;
+//}
 
 //void main()
 //{

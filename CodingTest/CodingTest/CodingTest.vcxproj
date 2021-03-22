@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="complete_search_3.cpp" />
     <ClCompile Include="complete_search_1.cpp" />
+    <ClCompile Include="complete_search_2.cpp" />
+    <ClCompile Include="dfs_bfs_2.cpp" />
+    <ClCompile Include="dfs_bfs_1.cpp" />
+    <ClCompile Include="dfs_bfs_3.cpp" />
+    <ClCompile Include="dfs_bfs_4.cpp" />
+    <ClCompile Include="greedy_1.cpp" />
+    <ClCompile Include="greedy_2.cpp" />
+    <ClCompile Include="greedy_3.cpp" />
+    <ClCompile Include="greedy_4.cpp" />
     <ClCompile Include="hash_1.cpp" />
     <ClCompile Include="hash_2.cpp" />
     <ClCompile Include="hash_3.cpp" />

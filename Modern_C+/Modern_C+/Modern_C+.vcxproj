@@ -139,9 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="attribute.cpp" />
+    <ClCompile Include="ClassTemplate.cpp" />
+    <ClCompile Include="fstream.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="smart_ptr.cpp" />
+    <ClCompile Include="sort_algorithm.cpp" />
+    <ClCompile Include="strcpy_ptr.cpp" />
+    <ClCompile Include="CSum.cpp" />
+    <ClCompile Include="swap.cpp" />
+    <ClCompile Include="template.cpp" />
+    <ClCompile Include="virtual.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ClassTemplate.h" />
+    <ClInclude Include="CSum.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

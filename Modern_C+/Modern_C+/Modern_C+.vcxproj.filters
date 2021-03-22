@@ -13,15 +13,54 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\CSum">
+      <UniqueIdentifier>{8bede11d-6aee-46aa-8ad9-465e89a50ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ClassTemplate">
+      <UniqueIdentifier>{f4aacf88-aa77-438d-a53a-411fdbbef7f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="attribute.cpp">
+    <ClCompile Include="strcpy_ptr.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fstream.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSum.cpp">
+      <Filter>소스 파일\CSum</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_algorithm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="smart_ptr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassTemplate.cpp">
+      <Filter>소스 파일\ClassTemplate</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSum.h">
+      <Filter>소스 파일\CSum</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassTemplate.h">
+      <Filter>소스 파일\ClassTemplate</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

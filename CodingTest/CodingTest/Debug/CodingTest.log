@@ -1,4 +1,7 @@
-﻿  sort_2.cpp
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\sort_2.cpp(31,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Code Workspace\CodingTest\CodingTest\CodingTest\sort_2.cpp(64,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  dfs_bfs_4.cpp
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\dfs_bfs_4.cpp(42,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\dfs_bfs_4.cpp(58,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\dfs_bfs_4.cpp(89,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\dfs_bfs_4.cpp(106,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Code Workspace\CodingTest\CodingTest\CodingTest\dfs_bfs_4.cpp(127,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   CodingTest.vcxproj -> D:\Code Workspace\CodingTest\CodingTest\Debug\CodingTest.exe

@@ -29,12 +29,12 @@ auto div(T1 _a, T2 _b) -> decltype(_a / _b)
 // class 키워드는 c++ 표준화 이전에 쓰이던 키워드이다.
 // typename 이 표준 이후 사용하게 된 키워드
 // 호환성을 위해 컴파일러에서 둘다 지원하는 것이다.
-
-int main()
-{
-	auto result = sum(std::string("afd"), std::string("arha"));
-
-	std::cout << result << std::endl;
-
-	return 0;
-}
+//
+//int main()
+//{
+//	auto result = sum(std::string("afd"), std::string("arha"));
+//
+//	std::cout << result << std::endl;
+//
+//	return 0;
+//}

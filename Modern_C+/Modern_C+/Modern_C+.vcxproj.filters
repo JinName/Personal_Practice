@@ -19,37 +19,76 @@
     <Filter Include="소스 파일\ClassTemplate">
       <UniqueIdentifier>{f4aacf88-aa77-438d-a53a-411fdbbef7f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ThreadPool">
+      <UniqueIdentifier>{951739e7-8191-486e-9f66-4da8dd0ce3ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Question">
+      <UniqueIdentifier>{eb5b6336-8b98-4095-b771-1019478ce615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Basic">
+      <UniqueIdentifier>{90c2da6a-01d8-4e82-bac7-ceb1d9ad43b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strcpy_ptr.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fstream.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="swap.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CSum.cpp">
       <Filter>소스 파일\CSum</Filter>
-    </ClCompile>
-    <ClCompile Include="virtual.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sort_algorithm.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="smart_ptr.cpp">
-      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ClassTemplate.cpp">
       <Filter>소스 파일\ClassTemplate</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>리소스 파일</Filter>
+    <ClCompile Include="ThreadPoolBase.cpp">
+      <Filter>소스 파일\ThreadPool</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="fstream.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="smart_ptr.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_algorithm.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy_ptr.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="use_json.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q4.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9.cpp">
+      <Filter>소스 파일\Question</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +100,9 @@
     </ClInclude>
     <ClInclude Include="ClassTemplate.h">
       <Filter>소스 파일\ClassTemplate</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadPoolBase.h">
+      <Filter>소스 파일\ThreadPool</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

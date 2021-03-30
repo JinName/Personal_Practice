@@ -24,5 +24,5 @@ void sum() {};
 
 // 템플릿 함수 부분특수화는 지원하지않음.
 // 함수 오버로딩을 통해 해결해야함.
-template <typename C1>
-void sum<C1, int>() {}; // x
+// template <typename C1>
+// void sum<C1, int>() {}; // x

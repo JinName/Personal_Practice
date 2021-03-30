@@ -1,0 +1,41 @@
+In this pa
+per, we ex
+plore the 
+feasibilit
+y of a med
+ical train
+ing system
+for breast
+tumor palp
+ation base
+d on hapti
+c augmente
+d reality 
+(AR) techn
+ology. Hap
+tic AR is 
+an emergin
+g research
+area in ha
+ptics and 
+virtual re
+ality  (VR
+), which i
+s concerne
+d with aug
+menting th
+e haptic p
+roperties 
+of a real 
+object by 
+means of v
+irtual hap
+tic feedba
+ck. The AR
+-based tum
+or palpati
+on system 
+consists o
+f a real b
+reast samp
+le. 
